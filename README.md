@@ -5,5 +5,5 @@ Tutorial: https://www.youtube.com/watch?v=QFDslca5AX8
 
 The project was carried out in several phases:
 - Creation and population of an SQL database and creation of two distinct views (churned/stayed, joined)
-- Training a model (Random Forest) on customer data (churned/stayed) and deploying the model to predict potential churners among newly acquired customers (joined)
+- Training a model (Random Forest) on customer data (churned/stayed) and deploying the model to predict potential churners among newly acquired customers (joined). The developed model is very simple; no extensive parameter tuning was performed. These tasks were carried out on Google Colab.
 - Building a dashboard in Power BI
